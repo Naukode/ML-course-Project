@@ -1,2 +1,2 @@
-Model's Code for ML course<br>
-Type: Zip File
+VAE-Diffusion Model for ML course<br>
+File Type: Zip
